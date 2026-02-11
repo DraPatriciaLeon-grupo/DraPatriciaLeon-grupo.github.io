@@ -22,7 +22,7 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 
 <h1 style="text-align: center;">Equipo (Con su linea de investigación y su archivo de index)</h1>
 
-|    imagen  | imagen | imagen |
+| ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) |
 |:-------------|:------------------|:------|
 | miembro| miembro | miembro  |
 | linea de investigación | linea de investigación   |linea de investigación|
