@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+<h1 style="text-align: center;">Título Centrado</h1>
+<h2 style="text-align: center;">Subtítulo Centrado</h2>
+
+# Visión
+
 <center>
 
 # Visión
