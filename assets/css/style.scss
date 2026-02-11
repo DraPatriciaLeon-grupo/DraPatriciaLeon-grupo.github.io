@@ -1,0 +1,22 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+.page-header {
+  background-image: url('/thumbnail.png'); 
+  background-color: #6a0dad;
+  color: white;
+}
+  
+  // Si quieres una imagen de fondo
+  // background-image: url('/assets/images/tu-imagen-header.jpg');
+  // background-size: cover;
+  // background-position: center;
+}
+
+// Cambiar color del título
+.page-header .project-name {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
