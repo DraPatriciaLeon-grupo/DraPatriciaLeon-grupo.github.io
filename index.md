@@ -2,27 +2,14 @@
 layout: default
 ---
 
-<h1 style="text-align: center;">Título Centrado</h1>
-<h2 style="text-align: center;">Subtítulo Centrado</h2>
 
-# Visión
-
-<center>
-
-# Visión
-
-</center>
+<h1 style="text-align: center;">Visión</h1>
 
 Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
 [Instituto de biotecnología, UNAM](https://www.ibt.unam.mx).
 [Departamento de Biología Molecular](https://www.ibt.unam.mx/perfil/2330/dra-patricia-leon-meja).
 
-
-<center>
-
-# Lineas de investigación
-
-</center>
+<h1 style="text-align: center;">Lineas de investigación</h1>
 
 * Biología del Desarrollo de las plantas
 * Biología Molecular y Biotecnología de Plantas
@@ -34,12 +21,13 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 * Mecanismos moleculares y celulares de la señalización por azúcares en plantas 
 
 
-<center>
+<h1 style="text-align: center;">Equipo (Con su linea de investigación y su archivo de index)</h1>
 
-# Equipo (Con su linea de investigación y su propio index)
 
-</center>
 
+
+<h1 style="text-align: center;">Título Centrado</h1>
+<h2 style="text-align: center;">Subtítulo Centrado</h2>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
