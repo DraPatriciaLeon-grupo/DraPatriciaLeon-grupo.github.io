@@ -20,5 +20,10 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 * Los carotenos, sus funciones y su regulación
 * Mecanismos moleculares y celulares de la señalización por azúcares en plantas 
 
-
 <h1 style="text-align: center;">Equipo (Con su linea de investigación y su archivo de index)</h1>
+
+|    imagen  | imagen | imagen |
+|:-------------|:------------------|:------|
+| miembro| miembro | miembro  |
+| linea de investigación | linea de investigación   |linea de investigación|
+| Proyecto          | Proyecto    | Proyecto |
