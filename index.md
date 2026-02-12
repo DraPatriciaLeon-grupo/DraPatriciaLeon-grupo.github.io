@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<h1 style="text-align: center;">Visión</h1>
+<h1 style="text-align: center;">VISIÓN</h1>
 
 <img src="default-profile-picture-icon-vector.jpg" width="300" align="left">
 
@@ -22,7 +22,7 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 * Los carotenos, sus funciones y su regulación
 * Mecanismos moleculares y celulares de la señalización por azúcares en plantas 
 
-<h1 style="text-align: center;">Equipo </h1>
+<h1 style="text-align: center;">EQUIPO </h1>
 
 | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) |
 |:-------------|:------------------|:------|
@@ -30,3 +30,15 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 | linea de investigación | linea de investigación   |linea de investigación|
 | Proyecto          | Proyecto    | Proyecto |
 |[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|
+
+<h1 style="text-align: center;">PROYECTOS </h1>
+
+TEXTO DE EJEMPLO
+
+<h1 style="text-align: center;">LOGROS </h1>
+
+TEXTO DE EJEMPLO
+
+<h1 style="text-align: center;">PUBLICACIONES </h1>
+
+TEXTO DE EJEMPLO
