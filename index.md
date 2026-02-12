@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# HOMERO SIMPSON
-
 <h1 style="text-align: center;">VISIÓN</h1>
 
 <img src="./miembros/default-profile-picture-icon-vector.jpg" width="300" align="left">
