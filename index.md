@@ -5,7 +5,7 @@ layout: default
 
 <h1 style="text-align: center;">VISIÓN</h1>
 
-<img src="default-profile-picture-icon-vector.jpg" width="300" align="left">
+<img src="./miembros/default-profile-picture-icon-vector.jpg" width="300" align="left">
 
 Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
 [Instituto de biotecnología, UNAM](https://www.ibt.unam.mx).
@@ -24,12 +24,12 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 
 <h1 style="text-align: center;">EQUIPO </h1>
 
-| ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) |
+| ![stikman](./miembros/default-profile-picture-icon-vector.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) |
 |:-------------|:------------------|:------|
 | miembro| miembro | miembro  |
 | linea de investigación | linea de investigación   |linea de investigación|
 | Proyecto          | Proyecto    | Proyecto |
-|[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|
+|[Link to another page](./miembros/plantilla_perfil.md).|[Link to another page](./miembros/plantilla_perfil.md).|[Link to another page](./miembros/plantilla_perfil.md).|
 
 <h1 style="text-align: center;">PROYECTOS </h1>
 
