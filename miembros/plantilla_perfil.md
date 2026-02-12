@@ -13,7 +13,7 @@ Describe quién eres, tu especialidad, años de experiencia, enfoque técnico y 
 Ejemplo:
 Profesional en [área] con experiencia en [habilidades clave]. Me especializo en [tecnologías o metodologías]. He trabajado en [tipo de proyectos]. Interesado en [líneas de interés].
 
-
+---
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes
