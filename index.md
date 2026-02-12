@@ -5,7 +5,7 @@ layout: default
 
 <h1 style="text-align: center;">Visión</h1>
 
-Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
+![stikman](default-profile-picture-icon-vector.jpg)Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
 [Instituto de biotecnología, UNAM](https://www.ibt.unam.mx).
 [Departamento de Biología Molecular](https://www.ibt.unam.mx/perfil/2330/dra-patricia-leon-meja).
 
@@ -20,7 +20,7 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 * Los carotenos, sus funciones y su regulación
 * Mecanismos moleculares y celulares de la señalización por azúcares en plantas 
 
-<h1 style="text-align: center;">Equipo (Con su linea de investigación y su archivo de index)</h1>
+<h1 style="text-align: center;">Equipo </h1>
 
 | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) | ![stikman](default-profile-picture-icon-vector.jpg) |
 |:-------------|:------------------|:------|
