@@ -27,4 +27,4 @@ layout: default
 | miembro| miembro | miembro  |
 | linea de investigación | linea de investigación   |linea de investigación|
 | Proyecto          | Proyecto    | Proyecto |
-|[Link to another page](./another-page.html).|[Link to another page](./another-page.html).|[Link to another page](./another-page.html).|
+|[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|[Link to another page](./miembros/another-page.html).|
