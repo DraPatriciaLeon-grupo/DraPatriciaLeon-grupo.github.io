@@ -3,17 +3,15 @@
 Ciudad, País  
 📧 correo@ejemplo.com | 🌐 sitio-web.com | 💼 LinkedIn | 🐙 GitHub  
 
----
-
 ## 👤 Perfil Profesional
-
+--- 
 Breve resumen profesional (4–6 líneas).  
 Describe quién eres, tu especialidad, años de experiencia, enfoque técnico y qué tipo de impacto generas.
 
 Ejemplo:
 Profesional en [área] con experiencia en [habilidades clave]. Me especializo en [tecnologías o metodologías]. He trabajado en [tipo de proyectos]. Interesado en [líneas de interés].
----
 
+---
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes
