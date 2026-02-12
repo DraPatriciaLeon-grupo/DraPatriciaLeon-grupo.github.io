@@ -1,4 +1,5 @@
-<img src="./default-profile-picture-icon-vector.jpg" width="300" align="left"># Nombre Apellido
+<img src="./default-profile-picture-icon-vector.jpg" width="300" align="left">
+# Nombre Apellido
 Ciudad, País  
 📧 correo@ejemplo.com | 🌐 sitio-web.com | 💼 LinkedIn | 🐙 GitHub  
 
