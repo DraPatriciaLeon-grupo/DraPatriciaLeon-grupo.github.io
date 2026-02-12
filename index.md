@@ -23,7 +23,7 @@ Las plantas son base de mayoría de la cadena trófica, por lo que la investigac
 
 <h1 style="text-align: center;">EQUIPO </h1>
 
-| ![stikman](./miembros/default-profile-picture-icon-vector.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) |
+| ![stikman](./miembros/Homero_Simpson/Homero.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) | ![stikman](./miembros/default-profile-picture-icon-vector.jpg) |
 |:-------------|:------------------|:------|
 | Homero Simpson | miembro | miembro  |
 | linea de investigación | linea de investigación   |linea de investigación|
