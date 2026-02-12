@@ -1,4 +1,4 @@
-![stikman](./default-profile-picture-icon-vector.jpeg)# Nombre Apellido
+![stikman](./default-profile-picture-icon-vector.jpg)# Nombre Apellido
 Ciudad, País  
 📧 correo@ejemplo.com | 🌐 sitio-web.com | 💼 LinkedIn | 🐙 GitHub  
 
