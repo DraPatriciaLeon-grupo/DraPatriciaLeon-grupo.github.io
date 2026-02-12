@@ -41,3 +41,6 @@ TEXTO DE EJEMPLO
 <h1 style="text-align: center;">PUBLICACIONES </h1>
 
 TEXTO DE EJEMPLO
+
+<h1 style="text-align: center;">COLAB DE PLANTCV</h1>
+[PLANTCV](https://colab.research.google.com/drive/1pASRQVWCnLeR4hHNLeE0-QdLhBsqA95u?usp=sharing)
