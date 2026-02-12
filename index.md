@@ -5,7 +5,9 @@ layout: default
 
 <h1 style="text-align: center;">Visión</h1>
 
-![stikman](default-profile-picture-icon-vector.jpg)Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
+<img src="default-profile-picture-icon-vector.jpg" width="300" align="left">
+
+Las plantas son base de mayoría de la cadena trófica, por lo que la investigación en plantas es fundamental para el avance en multiples ejes de la humanidad
 [Instituto de biotecnología, UNAM](https://www.ibt.unam.mx).
 [Departamento de Biología Molecular](https://www.ibt.unam.mx/perfil/2330/dra-patricia-leon-meja).
 
